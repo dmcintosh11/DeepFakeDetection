@@ -1,4 +1,4 @@
 print(' Shut up')
-stupid = true
-if stupid = true
+stupid = 4
+if stupid = 4
     print('Hello world!')
